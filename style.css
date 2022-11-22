@@ -1,4 +1,10 @@
+.top-text {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+}
 
-.better{
+.better {
     font-size: 45px;
 }
